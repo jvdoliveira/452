@@ -1,0 +1,223 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.3.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~MSle0~/DNAT
+
+# Histórico de Linha de comando (mais recente primeiro):
+:wq!
+:q!
+:q
+
+# Histórico de Expressões de busca (mais recente primeiro):
+?/DNAT
+?/MASQ
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+
+# Marcas nos arquivos:
+'0  14  33  /etc/openvpn/security.conf
+'1  8  3  /etc/openvpn/security.conf
+'2  71  17  /etc/openvpn/2.0/vars
+'3  85  0  /etc/squid3/squid.conf
+'4  124  15  /etc/squid3/squid.conf
+'5  4  8  /etc/squid3/acls/listabranca.list
+'6  2  14  /etc/squid3/acls/listanegra.list
+'7  120  16  /etc/squid3/squid.conf
+'8  7  11  /etc/squid3/acls/listanegra.list
+'9  1  0  ~/squid.conf
+
+# Lista de saltos (mais recente primeiro):
+-'  14  33  /etc/openvpn/security.conf
+-'  1  0  /etc/openvpn/security.conf
+-'  8  3  /etc/openvpn/security.conf
+-'  71  17  /etc/openvpn/2.0/vars
+-'  1  0  /etc/openvpn/2.0/vars
+-'  85  0  /etc/squid3/squid.conf
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  4  8  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  2  14  /etc/squid3/acls/listanegra.list
+-'  1  0  /etc/squid3/acls/listanegra.list
+-'  120  16  /etc/squid3/squid.conf
+-'  7  11  /etc/squid3/acls/listanegra.list
+-'  65  0  /etc/squid3/squid.conf
+-'  1  0  ~/squid.conf
+-'  106  0  /etc/squid3/squid.conf
+-'  102  0  /etc/rules
+-'  1  0  /etc/rules
+-'  70  60  /etc/rules
+-'  18  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  45  38  /etc/rules
+-'  49  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  102  0  /etc/rules
+-'  1  0  /etc/rules
+-'  70  60  /etc/rules
+-'  18  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  45  38  /etc/rules
+-'  49  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  102  0  /etc/rules
+-'  1  0  /etc/rules
+-'  70  60  /etc/rules
+-'  18  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  45  38  /etc/rules
+-'  49  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  102  0  /etc/rules
+-'  1  0  /etc/rules
+-'  70  60  /etc/rules
+-'  18  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  45  38  /etc/rules
+-'  49  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  102  0  /etc/rules
+-'  1  0  /etc/rules
+-'  70  60  /etc/rules
+-'  18  0  /etc/rules
+-'  56  0  /etc/dhcp/dhclient.conf
+-'  11  0  /etc/dhcp/dhclient.conf
+-'  1  0  /etc/dhcp/dhclient.conf
+-'  45  38  /etc/rules
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> /etc/openvpn/security.conf
+	"	14	33
+	^	14	34
+	.	14	33
+	+	14	33
+
+> /etc/openvpn/2.0/vars
+	"	71	17
+	^	71	18
+	.	71	17
+	+	64	21
+	+	65	22
+	+	66	24
+	+	67	28
+	+	69	0
+	+	68	36
+	+	69	23
+	+	53	19
+	+	70	26
+	+	71	17
+
+> /etc/squid3/squid.conf
+	"	85	0
+	^	85	0
+	.	84	0
+	+	85	0
+	+	119	0
+	+	85	0
+	+	89	0
+	+	119	26
+	+	120	16
+	+	55	0
+	+	56	0
+	+	57	0
+	+	58	0
+	+	90	0
+	+	91	0
+	+	92	0
+	+	93	0
+	+	117	0
+	+	120	29
+	+	121	25
+	+	120	19
+	+	123	0
+	+	122	28
+	+	123	0
+	+	123	28
+	+	124	15
+	+	84	0
+
+> /etc/squid3/acls/listabranca.list
+	"	4	8
+	^	4	9
+	.	4	8
+	+	3	10
+	+	5	0
+	+	4	8
+
+> /etc/squid3/acls/listanegra.list
+	"	2	14
+	^	2	15
+	.	2	14
+	+	7	11
+	+	2	14
+
+> ~/squid.conf
+	"	1	0
+
+> /etc/rules
+	"	102	0
+	^	102	0
+	.	102	0
+	+	45	40
+	+	98	0
+	+	99	0
+	+	101	0
+	+	102	0
+
+> /etc/dhcp/dhclient.conf
+	"	56	0
